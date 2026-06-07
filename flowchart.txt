@@ -1,0 +1,27 @@
+START
+  |
+  |
+Load settings.dat
+  |
+  |
+Enter Initial
+  |
+  |
+T/t ?
+ / \
+Y   N
+|   |
+|   |
+ADMIN   USER
+|        |
+|        |
+Enable   Show Enabled Ops
+Disable  |
+Ops      |
+|         |
+Save      Calculation
+|         |
+Exit      Exit
+ \        /
+  \      /
+    END
