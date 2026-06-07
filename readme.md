@@ -1,4 +1,4 @@
-# AdminCalc 🔐🧮
+# AdminCalc 
 
 AdminCalc is a menu-driven calculator written in C that allows an administrator to enable or disable calculator operations. Users can only access the operations that have been permitted by the administrator.
 
@@ -6,23 +6,23 @@ AdminCalc is a menu-driven calculator written in C that allows an administrator 
 
 ## Features
 
-✅ Admin Panel
+✔ Admin Panel
 
-✅ Enable / Disable Operations
+✔ Enable / Disable Operations
 
-✅ File Handling for Persistent Settings
+✔ File Handling for Persistent Settings
 
-✅ Addition
+✔ Addition
 
-✅ Subtraction
+✔ Subtraction
 
-✅ Multiplication
+✔ Multiplication
 
-✅ Division
+✔ Division
 
-✅ Division by Zero Protection
+✔ Division by Zero Protection
 
-✅ Menu Driven Interface
+✔ Menu Driven Interface
 
 ---
 
